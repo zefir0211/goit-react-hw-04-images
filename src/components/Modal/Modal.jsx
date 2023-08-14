@@ -39,4 +39,5 @@ Modal.propTypes = {
     alt: PropTypes.string.isRequired,
     popap: PropTypes.func.isRequired,
 };
+
 export default Modal;
